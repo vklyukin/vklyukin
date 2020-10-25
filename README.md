@@ -1,7 +1,7 @@
 ### Hi there, I am Valeriy 👋
 
 Machine Learning Engineer.  
-Studying at Yandex School of Data Science and Higher School of Economics.  
+Studying at Yandex School of Data Analysis and Higher School of Economics.  
 Telegram channel: https://t.me/bag_of_words_ml  
 
 ### Programming Languages  
