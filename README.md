@@ -12,7 +12,6 @@ Telegram channel: https://t.me/bag_of_words_ml
 
 <br />
 
----
 ### Machine Learning Tools  
 <img align="left" alt="PyTorch" width="26px" src="https://2.bp.blogspot.com/-ofgG__VD7Zw/XCEs2OY92RI/AAAAAAAAAxU/9FT2qCmFlsEqGyr47117H086OnMu_xGCwCPcBGAYYCw/s1600/pytorch-logo.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" />
@@ -22,7 +21,6 @@ Telegram channel: https://t.me/bag_of_words_ml
 
 <br />
 
----
 ### Other Tools
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Latex" width="26px" src="https://habrastorage.org/webt/59/d5/a9/59d5a9ccbaa71055927257.png" />
@@ -32,7 +30,6 @@ Telegram channel: https://t.me/bag_of_words_ml
 
 <br />
 
----
 ### Contact me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
