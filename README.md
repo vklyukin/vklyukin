@@ -7,7 +7,7 @@ Telegram channel: https://t.me/bag_of_words_ml
 ### Programming Languages  
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-<img align="left" alt="Java" width="26px" src="https://proxys.io/files/blog/Java/javalogo.png" />
+<img align="left" alt="Java" width="26px" src="https://img1.freepng.ru/20180810/cxt/kisspng-oracle-certified-professional-java-se-programmer-c-grails-development-groovy-development-grails-d-5b6dde2478a285.7026776415339269484941.jpg" />
 <img align="left" alt="SQL" width="26px" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure.png" />  
 
 <br />
