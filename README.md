@@ -41,7 +41,6 @@ Telegram channel: https://t.me/bag_of_words_ml
 <img align="left" alt="vklyukin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vklyukin&show_icons=true&hide_border=true" /> 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vklyukin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Profile views](https://gpvc.arturio.dev/vklyukin)
 
 <!--
 **vklyukin/vklyukin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
