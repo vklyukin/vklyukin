@@ -26,7 +26,7 @@ Telegram channel: https://t.me/bag_of_words_ml
 <img align="left" alt="Latex" width="26px" src="https://habrastorage.org/webt/59/d5/a9/59d5a9ccbaa71055927257.png" />
 <img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" />
 <img align="left" alt="Flask" width="26px" src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png" />
-<img align="left" alt="Aiohttp" width="26px" src="https://docs.aiohttp.org/en/latest/_static/aiohttp-icon-128x128.png" />  
+<!-- <img align="left" alt="Aiohttp" width="26px" src="https://docs.aiohttp.org/en/latest/_static/aiohttp-icon-128x128.png" />   -->
 
 <br />
 
