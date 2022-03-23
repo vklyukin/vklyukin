@@ -57,5 +57,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[instagram]: https://instagram.com/v.klyukin
 [linkedin]: https://linkedin.com/in/vklyukin
