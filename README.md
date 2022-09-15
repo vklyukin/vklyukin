@@ -1,6 +1,7 @@
 ### Hi there, I am Valeriy 👋
 
-Machine Learning Engineer at Yandex.  
+Machine Learning Engineer at Booking.com.
+Ex-Yandex.
 Studying at Yandex School of Data Analysis and Higher School of Economics.
 
 ### Programming Languages  
