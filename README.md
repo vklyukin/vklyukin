@@ -36,6 +36,4 @@ Graduated from Yandex School of Data Analysis and Higher School of Economics.
 
 <br />
 
----
-
 [linkedin]: https://linkedin.com/in/vklyukin
