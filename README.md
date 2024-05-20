@@ -1,6 +1,6 @@
 ### Hi there, I am Valeriy 👋
 
-Machine Learning Engineer at [Toloka.ai](https://toloka.ai/).  
+Machine Learning Engineer at [Reddit](https://reddit.com/).  
 Ex-Booking.com, ex-Yandex.  
 Graduated from Yandex School of Data Analysis and Higher School of Economics.
 
